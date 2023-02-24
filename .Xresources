@@ -1,0 +1,16 @@
+!! URxvt Appearance
+URxvt.font: xft:MesloLGS NF
+URxvt.boldFont: xft:MesloLGS NF
+URxvt.italicFont: xft:MesloLGS NF
+URxvt.boldItalicfont: xft:MesloLGS NF
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.internalBorder: 24
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.iso14755: false
+URxvt.geometry: 400x400

@@ -1,0 +1,9 @@
+Started to configure picom but it runs too slow on a hyper v vm on a vm so not using. Change line in i3 config to use and update .config/picom/picom.conf for better content.
+
+Also installed/started to install oh my zsh and power level 10k.
+
+Obviously need to enable a few things. For user enabled greenclip.service and for root enabled lightdm.service (maybe dhcpcd.service).
+
+Put wallpapers in ~/.wallpaper as bg.jpg.
+
+lightdm not changed.
