@@ -1,1 +1,8 @@
 .config/Code/
+.config/Cypress/
+.config/NordPass/
+.config/Postman/
+.config/Signal/
+.config/Slack/
+.config/google-chrome/
+.config/jgit
